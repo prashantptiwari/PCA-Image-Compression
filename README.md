@@ -103,9 +103,6 @@ A higher PSNR value generally indicates better image quality.
 
 **Prashant Tiwari**
 
-BCA Student  
-Galgotias University
-
 ## License
 
 This project is developed for educational and academic purposes.
